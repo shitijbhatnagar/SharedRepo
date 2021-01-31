@@ -4,7 +4,7 @@ public class SystemErrOutputter {
 
 	public static void main(String[] args) 
 	{
-		System.err.println("SystemErrOutputter program has run");
+		System.err.println("SystemErrOutputter program has run - error logs");
 	}
 
 }
